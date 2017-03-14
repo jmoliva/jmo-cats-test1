@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\IBM_ADMIN\AndroidStudioProjects\NumberPickerEx\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\IBM_ADMIN\AndroidStudioProjects\NumberPickerEx\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3cfe8c7deac4185242e9bb2c3325c5b6f32c2bd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IBM_ADMIN\AndroidStudioProjects\NumberPickerEx\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6056894ef036e52552e8527ed0acd915e70155ce">
+        <dex dex="C:\Users\IBM_ADMIN\AndroidStudioProjects\NumberPickerEx\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0b5cf4415691646d04f70755edff180fcac9cdfa\classes.dex" />
+    </item>
+
+</items>
